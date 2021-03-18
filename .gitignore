@@ -1,0 +1,4 @@
+
+node_modules/*
+# esto es para decir que queremos que se ignoren los archivos .txt que tengamos dentro de la carpeta de archives
+archives/*.txt
